@@ -1,0 +1,27 @@
+# Общие настройки
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Папки публикации и build
+bin/
+obj/
+out/
+publish/
+artifacts/
+
+# Кэш Npm
+node_modules/
+
+# Конфигурационные файлы
+appsettings*.json
+appsettings*.Development.json
+appsettings*.Staging.json
+appsettings*.Production.json
+
+# Логи
+*.log
+logs/
